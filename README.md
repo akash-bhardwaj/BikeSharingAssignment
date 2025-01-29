@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Bike Sharing Assignment
+> This assignment was to prepare a linear regression model to predict the demand of bikes that the company can anticipate based on various factors so that the company take capitise maximum profits based on the demand that the model is predicting.
 
 
 ## Table of Contents
@@ -8,15 +8,14 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- In this project we have used Linear Regression Modelling technique to predict the demand of Bike Shraing sales for the company.
+- We need to come up with a Linear Regression Model to predict the demand of Bike Sharing that might come up when business is back to normal.
+- Predict the demand of Bike Sharing sales for the company once business is back to normal, basically what all factors are more likely to effect these sales, so that the company can align its
+marketing strategies accordingly to reap maximum profits.
+- Dataset which was used included many factors such as temperature, humidity, date of rental, season, month, year, windspeed etc to predict the count of sales on any given day.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
 - Conclusion 1 from the analysis
@@ -24,29 +23,11 @@
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 ## Technologies Used
 - library - version 1.0
 - library - version 2.0
 - library - version 3.0
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@akash-bhardwaj] - feel free to contact me!
