@@ -25,9 +25,8 @@ marketing strategies accordingly to reap maximum profits.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python libraries such as Matplotlib(3.8.4), Seaborn(0.13.2), Numpy(1.26.4), Pandas(2.2.2), Stats Model(0.14.2), scikit-learn (1.4.2) are used.
+- Analysis has been done using Jupyter Notebook(7.0.8)
 
 ## Contact
 Created by [@akash-bhardwaj] - feel free to contact me!
