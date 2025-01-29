@@ -1,5 +1,5 @@
 # Bike Sharing Assignment
-> This assignment was to prepare a linear regression model to predict the demand of bikes that the company can anticipate based on various factors so that the company take capitise maximum profits based on the demand that the model is predicting.
+> This assignment was to prepare a linear regression model to predict the demand of bike rentals that the company can anticipate based on various factors so that the company take capitise maximum profits based on the demand that the model is predicting.
 
 
 ## Table of Contents
