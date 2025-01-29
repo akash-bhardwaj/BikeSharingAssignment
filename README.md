@@ -18,10 +18,12 @@ marketing strategies accordingly to reap maximum profits.
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+
+- As per the pair-plot and correlation matrix among the numerical variables, ‘atemp’ and ‘temp’ has the highest correlation with the target variable ‘cnt’.
+
+- The top three features which are significantly explaining the demand of the shared bikes are: temp, hum and yr, while ‘temp’ and ‘yr’ have a positive impact on the demand of the bikes but ‘hum’ have a negative impact on the demand of shared bikes.
+
+- Categorical variables have a significant effect on the target variable as many categorical variables like season (spring, winter), month (July, September), weekday (Monday) and weather situation (Misty) have ended up in the final model with very low p-value indicating their high significance in predicting the dependent variable. Their low p-value indicates each variables’ significance towards the prediction of the target variable with very less multicollinearity effect as indicated by low VIF.
 
 
 ## Technologies Used
